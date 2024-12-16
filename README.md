@@ -1,3 +1,4 @@
+# Hi! I'm Violet!
 - 👋 Hi, I’m @veilchenfuchs
 - 👀 I’m interested in software development and graphic design.
 - 🌱 I’m currently learning JavaScript and SQL.
